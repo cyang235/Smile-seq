@@ -9,4 +9,4 @@ This is an pipeline for Smile-seq data analysis.
 
 Citation
 --------
-[Xiaoying Fan, Cheng Yang, Wen Li, Xiuzhen Bai, Xin Zhou, Lu Wen, Fuchou Tang; Single-cell genome sequencing of human cells on third-generation sequencing platform, 2021]()
+[Xiaoying Fan, Cheng Yang, Wen Li, Xiuzhen Bai, Xin Zhou, Haoling Xie, Lu Wen, Fuchou Tang; Single-cell genome sequencing of human cells on third-generation sequencing platform, 2021]()
