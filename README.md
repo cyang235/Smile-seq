@@ -1,12 +1,12 @@
-Smile-seq Data Analysis Pipeline
+SMiLE-seq Data Analysis Pipeline
 ===========
 
 Introduction
 ------
-We developed a novel third-generation sequencing platform-based single-cell whole-genome sequencing (scWGS) method named Smile-seq. 
-This is an pipeline for Smile-seq data analysis. 
+We developed a novel third-generation sequencing platform-based single-cell whole-genome sequencing (scWGS) method named SMiLE-seq (single-molecule real-time sequencing of long fragments amplified via transposon insertion). 
+This is an pipeline for SMiLE-seq data analysis. 
 
 
 Citation
 --------
-[Xiaoying Fan, Cheng Yang, Wen Li, Xiuzhen Bai, Xin Zhou, Haoling Xie, Lu Wen, Fuchou Tang; Single-cell genome sequencing of human cells on third-generation sequencing platform, 2021]()
+[Xiaoying Fan, Cheng Yang, Wen Li, Xiuzhen Bai, Xin Zhou, Haoling Xie, Lu Wen, Fuchou Tang; SMiLE-seq: single-cell genome sequencing of human cells on a third-generation sequencing platform, 2021]()
